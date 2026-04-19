@@ -21,14 +21,15 @@
 
 | 仓库 | 说明 | 状态 |
 |------|------|------|
-| [**`notes`**](https://github.com/qiusuo-kaoyan/notes) | 求索号知识母舰。包含数学、专业课、英语、政治、方法论、考研日记、PZ 模板与脚本。 | 🟢 持续更新中 |
-| [**`onboarding`**](https://github.com/qiusuo-kaoyan/onboarding) | 新舰长上船指南。零基础图文教程：Fork → Clone → Obsidian 打开 → 插件安装 → FAQ。 | 🟢 已可用 |
+| [**\`notes\`**](https://github.com/qiusuo-kaoyan/notes) | 求索号知识母舰。包含数学、专业课、英语、政治、方法论、考研日记、PZ 模板与脚本。 | 🟢 持续更新中 |
+| [**\`onboarding\`**](https://github.com/qiusuo-kaoyan/onboarding) | 新舰长上船指南。零基础图文教程：Fork → Clone → Obsidian 打开 → 插件安装 → FAQ。 | 🟢 已可用 |
+| [**\`starlog-archive\`**](https://github.com/qiusuo-kaoyan/starlog-archive) | 星图档案馆。各代舰长按科目归档的航海日志（笔记压缩包），经审核后永久保存。 | 🟢 已可用 |
 
 ---
 
 ## 🎯 如何参与
 
-- **Reader**：Fork `notes` 母舰，在 Obsidian 中阅读学习
+- **Reader**：Fork \`notes\` 母舰，在 Obsidian 中阅读学习
 - **Contributor**：发现错误或有补充？提交 Pull Request
 - **Captain Gen-N**：上岸后接过舰长火炬，继续完善母舰
 
@@ -38,6 +39,7 @@
 
 - 🏠 **母舰主页**：https://github.com/qiusuo-kaoyan/notes
 - 📖 **上船指南**：https://github.com/qiusuo-kaoyan/onboarding
+- 🌟 **星图档案馆**：https://github.com/qiusuo-kaoyan/starlog-archive
 - 🏷️ **最新 Release**：https://github.com/qiusuo-kaoyan/notes/releases/latest
 - 📝 **贡献规范**：https://github.com/qiusuo-kaoyan/notes/blob/main/CONTRIBUTING.md
 - 🔬 **工作流说明**：https://github.com/qiusuo-kaoyan/notes/blob/main/WORKFLOW.md
